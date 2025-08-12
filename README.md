@@ -6,8 +6,8 @@ This repository contains **Go programming examples** with **unit tests** to help
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/go-examples-with-tests.git
-cd go-examples-with-tests
+git clone https://github.com/kishorkoshti/go-examples.git
+cd go-examples
 
 # Initialize modules
 go mod tidy
